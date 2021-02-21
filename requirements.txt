@@ -1,0 +1,5 @@
+ipykernel==5.3.4
+matplotlib==3.3.3
+pipdeptree==1.0.0
+tensorflow==2.3.0
+yapf==0.30.0
