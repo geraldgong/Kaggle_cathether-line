@@ -4,3 +4,4 @@ conda-env-catheter/
 .idea/
 __pycache__
 .git/
+.DS_Stores
