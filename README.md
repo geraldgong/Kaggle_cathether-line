@@ -12,6 +12,8 @@ References:
 
 https://arxiv.org/abs/2101.06871
 
+https://arxiv.org/pdf/2003.00827v2.pdf
+
 - DenseNet121
 
 - Activation Maps
